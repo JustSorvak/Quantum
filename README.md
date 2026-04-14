@@ -7,7 +7,7 @@
 * **Language:** Luau (Roblox)
 
 
-## ⚙️ Установка и Использование
+## ⚙️ Setup
 
 1. Reupload Animations via AnimationReuploader (Kartf)
 2. Setup Game -> DataStores = On, HTTP = On.
