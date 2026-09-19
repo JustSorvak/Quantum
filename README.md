@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="logo.png" alt="Quantum Logo" width="200">
-</p>
+![Quantum Logo](logo.png)
 # Quantum | Forsaken Uncopylocked
 
 
