@@ -1,4 +1,4 @@
-![Quantum Logo](logo.png)
+![Quantum Logo](Logo.png)
 # Quantum | Forsaken Uncopylocked
 
 
