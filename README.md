@@ -10,7 +10,7 @@
 * Based on Aeternus 1.35 by ForLeaken!
 
 
-## ⚙️ Setup
+## Setup
 
 1. Reupload Animations via AnimationReuploader (Kartf or backfr)
 2. Make on HTTPS and API
